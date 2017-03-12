@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
 
-        ContentProvider.initializeDb(this);
+        //ContentProvider.initializeDb(this);
 
         /*Intent intent = new Intent(this, ListenAndSelectActivity.class);
         startActivity(intent);*/
